@@ -1,6 +1,3 @@
-
-
-
 #PROGRAM MEASURING TIME FOR RSA ENCRYPTION FOR A FILE
 
 from Crypto.PublicKey import RSA
